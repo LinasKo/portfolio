@@ -1,4 +1,7 @@
 # Portfolio site
+
+<!-- E2E Test Marker: Multi-repo workflow validation -->
+
 This is a portfolio site, showing projects I have undertaken during my studies in University of Edinburgh, as well as on my free time.
 Site can be found at: https://linasko.github.io/portfolio/
 
