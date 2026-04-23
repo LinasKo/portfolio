@@ -2,6 +2,8 @@
 This is a portfolio site, showing projects I have undertaken during my studies in University of Edinburgh, as well as on my free time.
 Site can be found at: https://linasko.github.io/portfolio/
 
+<!-- E2E test: kodan/kod-999/1/e2e-daytona-multi-repo -->
+
 ## Original Creator of the Template
 
 The site is a heavily modified Start Boostrap template.
